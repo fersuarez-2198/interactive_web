@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/interactive_web/static/css/main.7ce7709e.css",
+    "main.js": "/interactive_web/static/js/main.291cdd26.js",
+    "static/js/453.e03d107d.chunk.js": "/interactive_web/static/js/453.e03d107d.chunk.js",
+    "static/media/umb.png": "/interactive_web/static/media/umb.14e21ac051a3793168aa.png",
+    "index.html": "/interactive_web/index.html",
+    "main.7ce7709e.css.map": "/interactive_web/static/css/main.7ce7709e.css.map",
+    "main.291cdd26.js.map": "/interactive_web/static/js/main.291cdd26.js.map",
+    "453.e03d107d.chunk.js.map": "/interactive_web/static/js/453.e03d107d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ce7709e.css",
+    "static/js/main.291cdd26.js"
+  ]
+}
